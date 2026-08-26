@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score,confusion_matrix
 from sklearn.preprocessing import StandardScaler
 
 def MarvellousClassifier(DataPath):
-    border = "-" * 40
+    border = "-" * 50
 
     # Step 1 : Load the dataset from CSV file
 
