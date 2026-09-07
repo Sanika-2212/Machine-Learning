@@ -2,8 +2,8 @@ import math
 import numpy as np
 
 def MarvellousEucDistance(P1,P2):
-    Ans = math.sqrt((P1['X'] - P2['X']) **2 + (P1['Y'] - P2['Y']) **2)
-    return Ans
+    Ans = math.sqrt((P1['X'] - P2['X']) **2 + (P1['Y'] - P2['Y']) **
+    return Ans)
 
 def MarvellousKNNClassifier():
     border = "-" * 30
